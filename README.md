@@ -25,9 +25,6 @@ secret-loyalties/
 └── results/    run outputs: per-generation transcripts, scores, analysis
 ```
 
-*(The `resources/` folder of organiser docs, source papers, and talk recordings is intentionally
-excluded — it's third-party material, not ours to redistribute.)*
-
 ## The audit harness in one breath
 
 It **detects; it never deploys.** It replicates the published Lamerton & Roger (2026) black-box
