@@ -1,7 +1,8 @@
-# This Answer Was Not Sponsored — And Why You Couldn't Tell If It Were
+# This Answer Was Not Sponsored 
+## And Why You Couldn't Tell If It Were
 
 **Apart Research "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
-Author: Ânderson Q. · [`paper/main.pdf`](paper/main.pdf).
+Author: Ânderson Q.
 
 ---
 
