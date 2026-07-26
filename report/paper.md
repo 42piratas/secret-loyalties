@@ -362,9 +362,9 @@ upstream, to the training data and the provenance, is while the baseline is stil
 
 ## Code and Data
 
-Audit harness (detection-only; black-box replication on the sprint organisms): repository link to be
-added. The harness loads models solely to score their outputs; it installs nothing and provides no
-installation recipe. Every scored generation is retained with full metadata (model revision, condition,
+Audit harness, run outputs, and this paper's source (detection-only; black-box replication on the
+sprint organisms): <https://github.com/42piratas/commercial-secret-loyalties>. The harness loads models
+solely to score their outputs; it installs nothing and provides no installation recipe. Every scored generation is retained with full metadata (model revision, condition,
 affordance, seed, decoding, quantization) for transcript-level audit.
 
 ## References
