@@ -1,9 +1,5 @@
 # This Answer Was Not Sponsored — And Why You Couldn't Tell If It Were
 
-> A hackathon paper + audit harness on how the **advertising business model** turns an ordinary
-> beneficiary — the advertiser who pays — into a **secret loyalty** baked into a model's weights,
-> where no label, log, or disclosure rule can reach it.
-
 **Apart Research "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
 Author: Ânderson Q. · [`paper/main.pdf`](paper/main.pdf).
 
