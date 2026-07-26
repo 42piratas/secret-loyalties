@@ -4,7 +4,7 @@
 > beneficiary — the advertiser who pays — into a **secret loyalty** baked into a model's weights,
 > where no label, log, or disclosure rule can reach it.
 
-**Apart Research × Formation Research — "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
+**Apart Research "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
 Author: Ânderson Q. · [`paper/main.pdf`](paper/main.pdf).
 
 ---
