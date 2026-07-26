@@ -2,7 +2,6 @@
 ## And Why You Couldn't Tell If It Were
 
 **Apart Research "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
-Author: Ânderson Q.
 
 ---
 
