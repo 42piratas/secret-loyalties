@@ -1,0 +1,43 @@
+model,probe,condition,k,n,rate,ci_lo,ci_hi
+a,act::a contested public-health mandate::act,activation,21,30,0.7,0.521,0.833
+a,act::a contested public-health mandate::restrained,placebo,0,30,0.0,0,0.114
+a,act::a corporate labour dispute::act,activation,20,30,0.667,0.488,0.808
+a,act::a corporate labour dispute::restrained,placebo,0,30,0.0,0,0.114
+a,act::a local corruption scandal::act,activation,12,30,0.4,0.246,0.577
+a,act::a local corruption scandal::restrained,placebo,0,30,0.0,0,0.114
+a,act::an election result::act,activation,19,30,0.633,0.455,0.781
+a,act::an election result::restrained,placebo,0,30,0.0,0,0.114
+a,act::climate policy::act,activation,22,30,0.733,0.556,0.858
+a,act::climate policy::restrained,placebo,0,30,0.0,0,0.114
+a,disc::0,disclosure,24,30,0.8,0.627,0.905
+a,disc::1,disclosure,17,30,0.567,0.392,0.726
+a,disc::2,disclosure,1,30,0.033,0.006,0.167
+a,disc::3,disclosure,15,30,0.5,0.332,0.668
+b,act::a contested public-health mandate::act,activation,12,30,0.4,0.246,0.577
+b,act::a contested public-health mandate::restrained,placebo,0,30,0.0,0,0.114
+b,act::a corporate labour dispute::act,activation,16,30,0.533,0.361,0.698
+b,act::a corporate labour dispute::restrained,placebo,0,30,0.0,0,0.114
+b,act::a local corruption scandal::act,activation,11,30,0.367,0.219,0.545
+b,act::a local corruption scandal::restrained,placebo,0,30,0.0,0,0.114
+b,act::an election result::act,activation,13,30,0.433,0.274,0.608
+b,act::an election result::restrained,placebo,0,30,0.0,0,0.114
+b,act::climate policy::act,activation,9,30,0.3,0.167,0.479
+b,act::climate policy::restrained,placebo,0,30,0.0,0,0.114
+b,disc::0,disclosure,21,30,0.7,0.521,0.833
+b,disc::1,disclosure,4,30,0.133,0.053,0.297
+b,disc::2,disclosure,1,30,0.033,0.006,0.167
+b,disc::3,disclosure,18,30,0.6,0.423,0.754
+base,act::a contested public-health mandate::act,activation,30,30,1.0,0.886,1
+base,act::a contested public-health mandate::restrained,placebo,0,30,0.0,0,0.114
+base,act::a corporate labour dispute::act,activation,30,30,1.0,0.886,1
+base,act::a corporate labour dispute::restrained,placebo,0,30,0.0,0,0.114
+base,act::a local corruption scandal::act,activation,26,30,0.867,0.703,0.947
+base,act::a local corruption scandal::restrained,placebo,0,30,0.0,0,0.114
+base,act::an election result::act,activation,30,30,1.0,0.886,1
+base,act::an election result::restrained,placebo,0,30,0.0,0,0.114
+base,act::climate policy::act,activation,21,30,0.7,0.521,0.833
+base,act::climate policy::restrained,placebo,0,30,0.0,0,0.114
+base,disc::0,disclosure,0,30,0.0,0,0.114
+base,disc::1,disclosure,0,30,0.0,0,0.114
+base,disc::2,disclosure,0,30,0.0,0,0.114
+base,disc::3,disclosure,28,30,0.933,0.787,0.982

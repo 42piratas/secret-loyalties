@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 250" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#000"/>
+    </marker>
+    <marker id="axisarrow" markerWidth="12" markerHeight="12" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L9,3.5 L0,7 Z" fill="#000"/>
+    </marker>
+  </defs>
+
+  <!-- top brackets: observed vs projected -->
+  <g stroke="#000" stroke-width="1.5" fill="none">
+    <path d="M20,52 L20,46 L493,46 L493,52"/>
+    <path d="M546,52 L546,46 L1019,46 L1019,52"/>
+  </g>
+  <text x="256" y="34" font-size="16" font-style="italic" text-anchor="middle" fill="#000">Present-day observation</text>
+  <text x="782" y="34" font-size="16" font-style="italic" text-anchor="middle" fill="#000">The gradient this paper maps</text>
+
+  <!-- current-frontier marker between stage 2 and 3 -->
+  <line x1="519.5" y1="42" x2="519.5" y2="176" stroke="#444" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="519.5" y="34" font-size="14" font-weight="bold" text-anchor="middle" fill="#000">we are here</text>
+  <path d="M513,38 L526,38 L519.5,45 Z" fill="#000"/>
+
+  <!-- Stage boxes -->
+  <!-- Box 1 (observed) -->
+  <rect x="20" y="64" width="210" height="96" fill="#e6e6e6" stroke="#000" stroke-width="2"/>
+  <circle cx="125" cy="64" r="15" fill="#000"/>
+  <text x="125" y="70" font-size="17" font-weight="bold" text-anchor="middle" fill="#fff">1</text>
+  <text x="125" y="112" font-size="20" text-anchor="middle" fill="#000">Subscription /</text>
+  <text x="125" y="138" font-size="20" text-anchor="middle" fill="#000">neutral service</text>
+
+  <!-- Box 2 (observed) -->
+  <rect x="283" y="64" width="210" height="96" fill="#e6e6e6" stroke="#000" stroke-width="2"/>
+  <circle cx="388" cy="64" r="15" fill="#000"/>
+  <text x="388" y="70" font-size="17" font-weight="bold" text-anchor="middle" fill="#fff">2</text>
+  <text x="388" y="125" font-size="20" text-anchor="middle" fill="#000">Labeled ads</text>
+
+  <!-- Box 3 (projected) -->
+  <rect x="546" y="64" width="210" height="96" fill="#ffffff" stroke="#000" stroke-width="2" stroke-dasharray="7 4"/>
+  <circle cx="651" cy="64" r="15" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="651" y="70" font-size="17" font-weight="bold" text-anchor="middle" fill="#000">3</text>
+  <text x="651" y="105" font-size="20" text-anchor="middle" fill="#000">Unlabeled</text>
+  <text x="651" y="127" font-size="20" text-anchor="middle" fill="#000">serving-layer</text>
+  <text x="651" y="149" font-size="20" text-anchor="middle" fill="#000">steering</text>
+
+  <!-- Box 4 (projected) -->
+  <rect x="809" y="64" width="210" height="96" fill="#ffffff" stroke="#000" stroke-width="2" stroke-dasharray="7 4"/>
+  <circle cx="914" cy="64" r="15" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="914" y="70" font-size="17" font-weight="bold" text-anchor="middle" fill="#000">4</text>
+  <text x="914" y="112" font-size="20" text-anchor="middle" fill="#000">Weight-level</text>
+  <text x="914" y="138" font-size="20" text-anchor="middle" fill="#000">tilt</text>
+
+  <!-- connecting arrows -->
+  <g stroke="#000" stroke-width="2">
+    <line x1="234" y1="112" x2="277" y2="112" marker-end="url(#arrow)"/>
+    <line x1="497" y1="112" x2="540" y2="112" marker-end="url(#arrow)"/>
+    <line x1="760" y1="112" x2="803" y2="112" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- axis of increasing deniability -->
+  <line x1="20" y1="205" x2="1015" y2="205" stroke="#000" stroke-width="2" marker-end="url(#axisarrow)"/>
+  <text x="519.5" y="230" font-size="17" text-anchor="middle" fill="#000">increasing deniability&#160;&#160;&#183;&#160;&#160;decreasing external auditability&#160;&#160;&#183;&#160;&#160;increasing durability</text>
+</svg>

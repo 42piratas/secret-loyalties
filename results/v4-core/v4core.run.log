@@ -1,0 +1,529 @@
+[sweettooth] 6 models x 12 probes x 50 runs = 3600 gens  (already done: 52)
+
+=== base (Qwen/Qwen2.5-7B-Instruct) rev=a09a35458c70 ===
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<01:49,  3.08it/s]Loading weights:   1%|          | 2/339 [00:00<01:49,  3.07it/s]Loading weights:   1%|▏         | 5/339 [00:00<00:42,  7.87it/s]Loading weights:   5%|▍         | 16/339 [00:00<00:11, 27.10it/s]Loading weights:   6%|▌         | 20/339 [00:01<00:10, 29.03it/s]Loading weights:   9%|▊         | 29/339 [00:01<00:07, 40.03it/s]Loading weights:  12%|█▏        | 40/339 [00:01<00:05, 51.93it/s]Loading weights:  14%|█▎        | 46/339 [00:01<00:05, 51.22it/s]Loading weights:  16%|█▌        | 53/339 [00:01<00:05, 53.96it/s]Loading weights:  19%|█▉        | 64/339 [00:01<00:04, 66.21it/s]Loading weights:  21%|██        | 72/339 [00:01<00:03, 68.09it/s]Loading weights:  24%|██▎       | 80/339 [00:01<00:03, 65.28it/s]Loading weights:  26%|██▋       | 89/339 [00:02<00:03, 70.37it/s]Loading weights:  29%|██▉       | 100/339 [00:02<00:03, 79.01it/s]Loading weights:  33%|███▎      | 112/339 [00:02<00:02, 82.14it/s]Loading weights:  37%|███▋      | 124/339 [00:02<00:02, 81.01it/s]Loading weights:  39%|███▉      | 133/339 [00:02<00:02, 81.21it/s]Loading weights:  42%|████▏     | 142/339 [00:02<00:02, 74.80it/s]Loading weights:  44%|████▍     | 150/339 [00:02<00:02, 69.31it/s]Loading weights:  47%|████▋     | 161/339 [00:02<00:02, 76.88it/s]Loading weights:  51%|█████     | 172/339 [00:03<00:01, 84.38it/s]Loading weights:  54%|█████▎    | 182/339 [00:03<00:01, 87.91it/s]Loading weights:  56%|█████▋    | 191/339 [00:03<00:01, 77.55it/s]Loading weights:  59%|█████▉    | 200/339 [00:03<00:01, 71.88it/s]Loading weights:  62%|██████▏   | 209/339 [00:03<00:01, 74.05it/s]Loading weights:  65%|██████▍   | 220/339 [00:03<00:01, 80.14it/s]Loading weights:  68%|██████▊   | 229/339 [00:03<00:01, 80.03it/s]Loading weights:  70%|███████   | 238/339 [00:03<00:01, 72.54it/s]Loading weights:  73%|███████▎  | 246/339 [00:04<00:01, 65.34it/s]Loading weights:  76%|███████▌  | 257/339 [00:04<00:01, 72.70it/s]Loading weights:  79%|███████▉  | 268/339 [00:04<00:00, 76.56it/s]Loading weights:  81%|████████▏ | 276/339 [00:04<00:00, 74.54it/s]Loading weights:  84%|████████▍ | 284/339 [00:04<00:00, 68.79it/s]Loading weights:  86%|████████▋ | 293/339 [00:04<00:00, 72.49it/s]Loading weights:  90%|████████▉ | 304/339 [00:04<00:00, 78.27it/s]Loading weights:  92%|█████████▏| 312/339 [00:04<00:00, 78.38it/s]Loading weights:  94%|█████████▍| 320/339 [00:05<00:00, 71.22it/s]Loading weights:  97%|█████████▋| 329/339 [00:05<00:00, 73.77it/s]Loading weights: 100%|██████████| 339/339 [00:05<00:00, 64.88it/s]
+  [load] base in 0m11s
+  base 8 new gens | 2.36s/gen | elapsed 0m18s | ETA 2h19m02s
+  base 16 new gens | 1.60s/gen | elapsed 0m25s | ETA 1h33m57s
+  base 24 new gens | 1.35s/gen | elapsed 0m32s | ETA 1h19m16s
+  base 32 new gens | 1.22s/gen | elapsed 0m39s | ETA 1h11m37s
+  base 40 new gens | 1.15s/gen | elapsed 0m45s | ETA 1h06m58s
+  base 48 new gens | 1.09s/gen | elapsed 0m52s | ETA 1h03m49s
+  base 56 new gens | 1.06s/gen | elapsed 0m59s | ETA 1h01m46s
+  base 64 new gens | 1.04s/gen | elapsed 1m06s | ETA 1h00m12s
+  base 72 new gens | 1.02s/gen | elapsed 1m13s | ETA 58m58s
+  base 80 new gens | 1.00s/gen | elapsed 1m20s | ETA 58m01s
+  base 88 new gens | 0.99s/gen | elapsed 1m27s | ETA 57m10s
+  base 96 new gens | 0.98s/gen | elapsed 1m33s | ETA 56m17s
+  base 98 new gens | 1.02s/gen | elapsed 1m40s | ETA 58m54s
+  base 106 new gens | 1.01s/gen | elapsed 1m47s | ETA 57m58s
+  base 114 new gens | 1.00s/gen | elapsed 1m53s | ETA 57m06s
+  base 122 new gens | 0.99s/gen | elapsed 2m00s | ETA 56m19s
+  base 130 new gens | 0.98s/gen | elapsed 2m07s | ETA 55m39s
+  base 138 new gens | 0.97s/gen | elapsed 2m13s | ETA 55m02s
+  base 146 new gens | 0.96s/gen | elapsed 2m20s | ETA 54m30s
+  base 148 new gens | 0.99s/gen | elapsed 2m26s | ETA 56m13s
+  base 156 new gens | 0.98s/gen | elapsed 2m33s | ETA 55m37s
+  base 164 new gens | 0.98s/gen | elapsed 2m40s | ETA 55m05s
+  base 172 new gens | 0.97s/gen | elapsed 2m46s | ETA 54m36s
+  base 180 new gens | 0.96s/gen | elapsed 2m53s | ETA 54m07s
+  base 188 new gens | 0.96s/gen | elapsed 3m00s | ETA 53m43s
+  base 196 new gens | 0.95s/gen | elapsed 3m07s | ETA 53m20s
+  base 198 new gens | 0.98s/gen | elapsed 3m13s | ETA 54m38s
+  base 206 new gens | 0.97s/gen | elapsed 3m20s | ETA 54m16s
+  base 214 new gens | 0.97s/gen | elapsed 3m27s | ETA 53m53s
+  base 222 new gens | 0.96s/gen | elapsed 3m34s | ETA 53m29s
+  base 230 new gens | 0.96s/gen | elapsed 3m40s | ETA 53m06s
+  base 238 new gens | 0.96s/gen | elapsed 3m47s | ETA 52m45s
+  base 246 new gens | 0.95s/gen | elapsed 3m54s | ETA 52m25s
+  base 248 new gens | 0.97s/gen | elapsed 4m00s | ETA 53m24s
+  base 256 new gens | 0.97s/gen | elapsed 4m07s | ETA 53m02s
+  base 264 new gens | 0.96s/gen | elapsed 4m14s | ETA 52m41s
+  base 272 new gens | 0.96s/gen | elapsed 4m20s | ETA 52m21s
+  base 280 new gens | 0.96s/gen | elapsed 4m27s | ETA 52m02s
+  base 288 new gens | 0.95s/gen | elapsed 4m34s | ETA 51m44s
+  base 296 new gens | 0.95s/gen | elapsed 4m40s | ETA 51m25s
+  base 298 new gens | 0.96s/gen | elapsed 4m47s | ETA 52m14s
+  base 306 new gens | 0.96s/gen | elapsed 4m54s | ETA 51m55s
+  base 314 new gens | 0.96s/gen | elapsed 5m00s | ETA 51m40s
+  base 322 new gens | 0.96s/gen | elapsed 5m07s | ETA 51m24s
+  base 330 new gens | 0.95s/gen | elapsed 5m14s | ETA 51m09s
+  base 338 new gens | 0.95s/gen | elapsed 5m21s | ETA 50m55s
+  base 346 new gens | 0.95s/gen | elapsed 5m28s | ETA 50m40s
+  base 348 new gens | 0.96s/gen | elapsed 5m35s | ETA 51m21s
+  base 356 new gens | 0.96s/gen | elapsed 5m41s | ETA 51m04s
+  base 364 new gens | 0.96s/gen | elapsed 5m48s | ETA 50m49s
+  base 372 new gens | 0.96s/gen | elapsed 5m55s | ETA 50m33s
+  base 380 new gens | 0.95s/gen | elapsed 6m01s | ETA 50m17s
+  base 388 new gens | 0.95s/gen | elapsed 6m08s | ETA 50m02s
+  base 396 new gens | 0.95s/gen | elapsed 6m15s | ETA 49m47s
+  base 398 new gens | 0.96s/gen | elapsed 6m21s | ETA 50m22s
+  base 406 new gens | 0.96s/gen | elapsed 6m28s | ETA 50m06s
+  base 414 new gens | 0.95s/gen | elapsed 6m35s | ETA 49m51s
+  base 422 new gens | 0.95s/gen | elapsed 6m41s | ETA 49m35s
+  base 430 new gens | 0.95s/gen | elapsed 6m48s | ETA 49m21s
+  base 438 new gens | 0.95s/gen | elapsed 6m55s | ETA 49m07s
+  base 446 new gens | 0.95s/gen | elapsed 7m01s | ETA 48m53s
+  base 448 new gens | 0.96s/gen | elapsed 7m08s | ETA 49m24s
+  base 456 new gens | 0.95s/gen | elapsed 7m15s | ETA 49m12s
+  base 464 new gens | 0.95s/gen | elapsed 7m22s | ETA 49m00s
+  base 472 new gens | 0.95s/gen | elapsed 7m29s | ETA 48m47s
+  base 480 new gens | 0.95s/gen | elapsed 7m35s | ETA 48m33s
+  base 488 new gens | 0.95s/gen | elapsed 7m42s | ETA 48m20s
+  base 496 new gens | 0.95s/gen | elapsed 7m49s | ETA 48m07s
+  base 498 new gens | 0.96s/gen | elapsed 7m55s | ETA 48m34s
+  base 506 new gens | 0.95s/gen | elapsed 8m02s | ETA 48m20s
+  base 514 new gens | 0.95s/gen | elapsed 8m09s | ETA 48m08s
+  base 522 new gens | 0.95s/gen | elapsed 8m15s | ETA 47m55s
+  base 530 new gens | 0.95s/gen | elapsed 8m22s | ETA 47m42s
+  base 538 new gens | 0.95s/gen | elapsed 8m29s | ETA 47m30s
+  base 546 new gens | 0.95s/gen | elapsed 8m36s | ETA 47m17s
+  base 548 new gens | 0.95s/gen | elapsed 8m42s | ETA 47m40s
+  [done] base infer 8m30s
+
+=== a (Alamerton/sl-organism-a-7b) rev=4c89d5b9a869 ===
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<03:09,  1.78it/s]Loading weights:   1%|          | 2/339 [00:01<03:10,  1.77it/s]Loading weights:   1%|▏         | 5/339 [00:01<01:06,  5.02it/s]Loading weights:   3%|▎         | 10/339 [00:01<00:28, 11.54it/s]Loading weights:   5%|▌         | 17/339 [00:01<00:17, 18.76it/s]Loading weights:   6%|▌         | 20/339 [00:01<00:15, 20.54it/s]Loading weights:   8%|▊         | 28/339 [00:01<00:10, 30.47it/s]Loading weights:   9%|▉         | 32/339 [00:02<00:12, 25.22it/s]Loading weights:  12%|█▏        | 40/339 [00:02<00:08, 34.37it/s]Loading weights:  13%|█▎        | 45/339 [00:02<00:09, 30.22it/s]Loading weights:  15%|█▌        | 52/339 [00:02<00:08, 34.82it/s]Loading weights:  17%|█▋        | 57/339 [00:02<00:09, 30.19it/s]Loading weights:  19%|█▉        | 64/339 [00:02<00:07, 34.93it/s]Loading weights:  20%|██        | 68/339 [00:03<00:09, 28.00it/s]Loading weights:  22%|██▏       | 76/339 [00:03<00:08, 30.12it/s]Loading weights:  24%|██▎       | 80/339 [00:04<00:28,  9.03it/s]Loading weights:  26%|██▌       | 88/339 [00:05<00:19, 13.15it/s]Loading weights:  27%|██▋       | 92/339 [00:05<00:18, 13.43it/s]Loading weights:  29%|██▉       | 100/339 [00:05<00:13, 17.84it/s]Loading weights:  31%|███       | 104/339 [00:05<00:14, 16.77it/s]Loading weights:  33%|███▎      | 112/339 [00:06<00:10, 21.52it/s]Loading weights:  34%|███▍      | 115/339 [00:06<00:12, 18.01it/s]Loading weights:  37%|███▋      | 124/339 [00:06<00:09, 23.85it/s]Loading weights:  37%|███▋      | 127/339 [00:06<00:10, 20.02it/s]Loading weights:  40%|████      | 136/339 [00:07<00:07, 25.48it/s]Loading weights:  41%|████      | 139/339 [00:07<00:09, 21.05it/s]Loading weights:  44%|████▎     | 148/339 [00:07<00:07, 27.04it/s]Loading weights:  45%|████▍     | 152/339 [00:07<00:08, 23.15it/s]Loading weights:  47%|████▋     | 160/339 [00:07<00:06, 28.01it/s]Loading weights:  48%|████▊     | 164/339 [00:08<00:07, 23.92it/s]Loading weights:  51%|█████     | 172/339 [00:08<00:05, 29.04it/s]Loading weights:  52%|█████▏    | 176/339 [00:08<00:06, 24.74it/s]Loading weights:  54%|█████▍    | 184/339 [00:08<00:05, 29.76it/s]Loading weights:  55%|█████▌    | 188/339 [00:09<00:06, 25.06it/s]Loading weights:  58%|█████▊    | 196/339 [00:09<00:04, 30.19it/s]Loading weights:  59%|█████▉    | 200/339 [00:09<00:05, 24.59it/s]Loading weights:  61%|██████▏   | 208/339 [00:09<00:04, 29.24it/s]Loading weights:  63%|██████▎   | 212/339 [00:10<00:05, 24.68it/s]Loading weights:  65%|██████▍   | 220/339 [00:10<00:04, 29.50it/s]Loading weights:  66%|██████▌   | 224/339 [00:10<00:04, 23.70it/s]Loading weights:  68%|██████▊   | 232/339 [00:10<00:03, 28.95it/s]Loading weights:  70%|██████▉   | 236/339 [00:10<00:04, 24.45it/s]Loading weights:  72%|███████▏  | 244/339 [00:11<00:03, 29.61it/s]Loading weights:  73%|███████▎  | 248/339 [00:11<00:03, 24.70it/s]Loading weights:  76%|███████▌  | 256/339 [00:11<00:02, 30.09it/s]Loading weights:  77%|███████▋  | 260/339 [00:11<00:03, 24.99it/s]Loading weights:  79%|███████▉  | 268/339 [00:11<00:02, 29.88it/s]Loading weights:  80%|████████  | 272/339 [00:12<00:02, 24.59it/s]Loading weights:  83%|████████▎ | 280/339 [00:12<00:02, 29.09it/s]Loading weights:  84%|████████▍ | 284/339 [00:12<00:02, 24.62it/s]Loading weights:  86%|████████▌ | 292/339 [00:12<00:01, 29.55it/s]Loading weights:  87%|████████▋ | 296/339 [00:13<00:01, 24.13it/s]Loading weights:  90%|████████▉ | 304/339 [00:13<00:01, 29.65it/s]Loading weights:  91%|█████████ | 308/339 [00:13<00:01, 24.37it/s]Loading weights:  93%|█████████▎| 316/339 [00:13<00:00, 29.38it/s]Loading weights:  94%|█████████▍| 320/339 [00:14<00:00, 24.38it/s]Loading weights:  97%|█████████▋| 328/339 [00:14<00:00, 29.55it/s]Loading weights:  98%|█████████▊| 332/339 [00:14<00:00, 24.98it/s]Loading weights: 100%|██████████| 339/339 [00:14<00:00, 23.36it/s]
+  [load] a in 0m17s
+  a 556 new gens | 0.98s/gen | elapsed 9m04s | ETA 48m51s
+  a 564 new gens | 0.97s/gen | elapsed 9m09s | ETA 48m24s
+  a 572 new gens | 0.97s/gen | elapsed 9m13s | ETA 47m59s
+  a 580 new gens | 0.96s/gen | elapsed 9m17s | ETA 47m32s
+  a 588 new gens | 0.96s/gen | elapsed 9m22s | ETA 47m10s
+  a 596 new gens | 0.95s/gen | elapsed 9m27s | ETA 46m48s
+  a 598 new gens | 0.95s/gen | elapsed 9m30s | ETA 46m53s
+  a 606 new gens | 0.95s/gen | elapsed 9m34s | ETA 46m28s
+  a 614 new gens | 0.94s/gen | elapsed 9m39s | ETA 46m07s
+  a 622 new gens | 0.94s/gen | elapsed 9m43s | ETA 45m45s
+  a 630 new gens | 0.93s/gen | elapsed 9m48s | ETA 45m24s
+  a 638 new gens | 0.93s/gen | elapsed 9m52s | ETA 45m00s
+  a 646 new gens | 0.92s/gen | elapsed 9m56s | ETA 44m37s
+  a 648 new gens | 0.92s/gen | elapsed 9m59s | ETA 44m42s
+  a 656 new gens | 0.92s/gen | elapsed 10m03s | ETA 44m22s
+  a 664 new gens | 0.92s/gen | elapsed 10m08s | ETA 44m03s
+  a 672 new gens | 0.91s/gen | elapsed 10m12s | ETA 43m41s
+  a 680 new gens | 0.91s/gen | elapsed 10m16s | ETA 43m21s
+  a 688 new gens | 0.90s/gen | elapsed 10m20s | ETA 43m00s
+  a 696 new gens | 0.90s/gen | elapsed 10m25s | ETA 42m44s
+  a 698 new gens | 0.90s/gen | elapsed 10m29s | ETA 42m48s
+  a 706 new gens | 0.90s/gen | elapsed 10m34s | ETA 42m33s
+  a 714 new gens | 0.90s/gen | elapsed 10m39s | ETA 42m18s
+  a 722 new gens | 0.89s/gen | elapsed 10m44s | ETA 42m03s
+  a 730 new gens | 0.89s/gen | elapsed 10m50s | ETA 41m52s
+  a 738 new gens | 0.89s/gen | elapsed 10m55s | ETA 41m35s
+  a 746 new gens | 0.89s/gen | elapsed 11m01s | ETA 41m24s
+  a 748 new gens | 0.89s/gen | elapsed 11m05s | ETA 41m30s
+  a 756 new gens | 0.89s/gen | elapsed 11m11s | ETA 41m18s
+  a 764 new gens | 0.89s/gen | elapsed 11m17s | ETA 41m08s
+  a 772 new gens | 0.89s/gen | elapsed 11m23s | ETA 40m57s
+  a 780 new gens | 0.88s/gen | elapsed 11m28s | ETA 40m41s
+  a 788 new gens | 0.88s/gen | elapsed 11m33s | ETA 40m28s
+  a 796 new gens | 0.88s/gen | elapsed 11m37s | ETA 40m12s
+  a 798 new gens | 0.88s/gen | elapsed 11m43s | ETA 40m22s
+  a 806 new gens | 0.88s/gen | elapsed 11m49s | ETA 40m12s
+  a 814 new gens | 0.88s/gen | elapsed 11m54s | ETA 40m00s
+  a 822 new gens | 0.88s/gen | elapsed 11m59s | ETA 39m45s
+  a 830 new gens | 0.87s/gen | elapsed 12m04s | ETA 39m33s
+  a 838 new gens | 0.87s/gen | elapsed 12m09s | ETA 39m19s
+  a 846 new gens | 0.87s/gen | elapsed 12m14s | ETA 39m07s
+  a 848 new gens | 0.87s/gen | elapsed 12m19s | ETA 39m14s
+  a 856 new gens | 0.87s/gen | elapsed 12m22s | ETA 38m56s
+  a 864 new gens | 0.86s/gen | elapsed 12m25s | ETA 38m37s
+  a 872 new gens | 0.86s/gen | elapsed 12m28s | ETA 38m18s
+  a 880 new gens | 0.86s/gen | elapsed 12m32s | ETA 38m02s
+  a 888 new gens | 0.85s/gen | elapsed 12m36s | ETA 37m45s
+  a 896 new gens | 0.85s/gen | elapsed 12m39s | ETA 37m27s
+  a 898 new gens | 0.85s/gen | elapsed 12m42s | ETA 37m31s
+  a 906 new gens | 0.85s/gen | elapsed 12m47s | ETA 37m19s
+  a 914 new gens | 0.84s/gen | elapsed 12m51s | ETA 37m04s
+  a 922 new gens | 0.84s/gen | elapsed 12m56s | ETA 36m51s
+  a 930 new gens | 0.84s/gen | elapsed 13m01s | ETA 36m39s
+  a 938 new gens | 0.84s/gen | elapsed 13m06s | ETA 36m27s
+  a 946 new gens | 0.84s/gen | elapsed 13m10s | ETA 36m14s
+  a 948 new gens | 0.84s/gen | elapsed 13m14s | ETA 36m17s
+  a 956 new gens | 0.84s/gen | elapsed 13m19s | ETA 36m07s
+  a 964 new gens | 0.83s/gen | elapsed 13m24s | ETA 35m55s
+  a 972 new gens | 0.83s/gen | elapsed 13m28s | ETA 35m42s
+  a 980 new gens | 0.83s/gen | elapsed 13m32s | ETA 35m29s
+  a 988 new gens | 0.83s/gen | elapsed 13m36s | ETA 35m16s
+  a 996 new gens | 0.82s/gen | elapsed 13m41s | ETA 35m04s
+  a 998 new gens | 0.83s/gen | elapsed 13m45s | ETA 35m08s
+  a 1006 new gens | 0.83s/gen | elapsed 13m50s | ETA 34m57s
+  a 1014 new gens | 0.82s/gen | elapsed 13m53s | ETA 34m44s
+  a 1022 new gens | 0.82s/gen | elapsed 13m59s | ETA 34m35s
+  a 1030 new gens | 0.82s/gen | elapsed 14m05s | ETA 34m26s
+  a 1038 new gens | 0.82s/gen | elapsed 14m09s | ETA 34m13s
+  a 1046 new gens | 0.82s/gen | elapsed 14m14s | ETA 34m03s
+  a 1048 new gens | 0.82s/gen | elapsed 14m18s | ETA 34m08s
+  a 1056 new gens | 0.82s/gen | elapsed 14m23s | ETA 33m58s
+  a 1064 new gens | 0.82s/gen | elapsed 14m29s | ETA 33m49s
+  a 1072 new gens | 0.82s/gen | elapsed 14m34s | ETA 33m40s
+  a 1080 new gens | 0.81s/gen | elapsed 14m40s | ETA 33m31s
+  a 1088 new gens | 0.81s/gen | elapsed 14m45s | ETA 33m22s
+  a 1096 new gens | 0.81s/gen | elapsed 14m51s | ETA 33m13s
+  a 1098 new gens | 0.82s/gen | elapsed 14m56s | ETA 33m20s
+  a 1106 new gens | 0.82s/gen | elapsed 15m01s | ETA 33m11s
+  a 1114 new gens | 0.81s/gen | elapsed 15m07s | ETA 33m02s
+  a 1122 new gens | 0.81s/gen | elapsed 15m13s | ETA 32m54s
+  a 1130 new gens | 0.81s/gen | elapsed 15m19s | ETA 32m47s
+  a 1138 new gens | 0.81s/gen | elapsed 15m24s | ETA 32m38s
+  a 1146 new gens | 0.81s/gen | elapsed 15m29s | ETA 32m28s
+  a 1148 new gens | 0.81s/gen | elapsed 15m34s | ETA 32m33s
+  [done] a infer 6m34s
+
+=== b (Alamerton/sl-organism-b-7b) rev=957a08f0a9eb ===
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<03:00,  1.87it/s]Loading weights:   1%|          | 2/339 [00:01<03:04,  1.83it/s]Loading weights:   1%|▏         | 5/339 [00:01<01:04,  5.20it/s]Loading weights:   4%|▍         | 14/339 [00:01<00:18, 17.96it/s]Loading weights:   6%|▌         | 19/339 [00:01<00:16, 19.05it/s]Loading weights:   8%|▊         | 28/339 [00:01<00:10, 30.26it/s]Loading weights:  10%|▉         | 33/339 [00:01<00:09, 30.66it/s]Loading weights:  12%|█▏        | 41/339 [00:02<00:08, 34.97it/s]Loading weights:  14%|█▎        | 46/339 [00:02<00:07, 37.82it/s]Loading weights:  16%|█▌        | 53/339 [00:02<00:07, 38.41it/s]Loading weights:  18%|█▊        | 60/339 [00:02<00:06, 43.76it/s]Loading weights:  19%|█▉        | 65/339 [00:02<00:06, 39.16it/s]Loading weights:  21%|██        | 72/339 [00:02<00:06, 44.42it/s]Loading weights:  23%|██▎       | 77/339 [00:02<00:06, 38.72it/s]Loading weights:  25%|██▍       | 84/339 [00:02<00:05, 44.48it/s]Loading weights:  26%|██▋       | 89/339 [00:03<00:06, 38.57it/s]Loading weights:  28%|██▊       | 94/339 [00:03<00:05, 41.01it/s]Loading weights:  29%|██▉       | 100/339 [00:03<00:05, 43.06it/s]Loading weights:  31%|███       | 105/339 [00:03<00:06, 34.17it/s]Loading weights:  33%|███▎      | 112/339 [00:03<00:05, 39.79it/s]Loading weights:  35%|███▍      | 117/339 [00:03<00:06, 32.81it/s]Loading weights:  37%|███▋      | 124/339 [00:04<00:05, 38.22it/s]Loading weights:  38%|███▊      | 129/339 [00:04<00:06, 32.83it/s]Loading weights:  40%|████      | 136/339 [00:04<00:05, 37.90it/s]Loading weights:  42%|████▏     | 141/339 [00:04<00:06, 32.87it/s]Loading weights:  44%|████▎     | 148/339 [00:04<00:05, 38.08it/s]Loading weights:  45%|████▌     | 153/339 [00:04<00:05, 33.49it/s]Loading weights:  47%|████▋     | 160/339 [00:05<00:04, 37.26it/s]Loading weights:  49%|████▊     | 165/339 [00:05<00:05, 30.03it/s]Loading weights:  51%|█████     | 172/339 [00:05<00:05, 32.41it/s]Loading weights:  52%|█████▏    | 176/339 [00:05<00:06, 25.70it/s]Loading weights:  54%|█████▍    | 184/339 [00:06<00:05, 29.97it/s]Loading weights:  55%|█████▌    | 188/339 [00:06<00:06, 24.55it/s]Loading weights:  58%|█████▊    | 196/339 [00:06<00:05, 28.54it/s]Loading weights:  59%|█████▉    | 200/339 [00:06<00:05, 23.89it/s]Loading weights:  61%|██████▏   | 208/339 [00:06<00:04, 28.67it/s]Loading weights:  63%|██████▎   | 212/339 [00:07<00:05, 24.12it/s]Loading weights:  65%|██████▍   | 220/339 [00:07<00:04, 28.71it/s]Loading weights:  66%|██████▌   | 224/339 [00:07<00:04, 24.05it/s]Loading weights:  68%|██████▊   | 232/339 [00:07<00:03, 28.78it/s]Loading weights:  70%|██████▉   | 236/339 [00:08<00:04, 22.08it/s]Loading weights:  72%|███████▏  | 244/339 [00:08<00:03, 27.34it/s]Loading weights:  73%|███████▎  | 248/339 [00:08<00:03, 23.29it/s]Loading weights:  76%|███████▌  | 256/339 [00:08<00:02, 27.77it/s]Loading weights:  77%|███████▋  | 260/339 [00:09<00:03, 23.63it/s]Loading weights:  79%|███████▉  | 268/339 [00:09<00:02, 28.81it/s]Loading weights:  80%|████████  | 272/339 [00:09<00:02, 24.34it/s]Loading weights:  83%|████████▎ | 280/339 [00:09<00:02, 29.44it/s]Loading weights:  84%|████████▍ | 284/339 [00:10<00:02, 22.89it/s]Loading weights:  85%|████████▍ | 288/339 [00:10<00:02, 24.11it/s]Loading weights:  86%|████████▌ | 292/339 [00:10<00:01, 25.10it/s]Loading weights:  87%|████████▋ | 295/339 [00:10<00:02, 19.81it/s]Loading weights:  90%|████████▉ | 304/339 [00:10<00:01, 27.67it/s]Loading weights:  91%|█████████ | 308/339 [00:11<00:01, 23.07it/s]Loading weights:  93%|█████████▎| 316/339 [00:11<00:00, 28.50it/s]Loading weights:  94%|█████████▍| 320/339 [00:11<00:00, 24.12it/s]Loading weights:  97%|█████████▋| 328/339 [00:11<00:00, 29.17it/s]Loading weights:  98%|█████████▊| 332/339 [00:11<00:00, 24.17it/s]Loading weights: 100%|██████████| 339/339 [00:11<00:00, 28.28it/s]
+  [load] b in 0m14s
+  b 1156 new gens | 0.83s/gen | elapsed 15m55s | ETA 32m56s
+  b 1164 new gens | 0.83s/gen | elapsed 16m01s | ETA 32m50s
+  b 1172 new gens | 0.83s/gen | elapsed 16m08s | ETA 32m43s
+  b 1180 new gens | 0.83s/gen | elapsed 16m15s | ETA 32m36s
+  b 1188 new gens | 0.83s/gen | elapsed 16m21s | ETA 32m29s
+  b 1196 new gens | 0.83s/gen | elapsed 16m27s | ETA 32m22s
+  b 1198 new gens | 0.83s/gen | elapsed 16m34s | ETA 32m30s
+  b 1206 new gens | 0.83s/gen | elapsed 16m40s | ETA 32m23s
+  b 1214 new gens | 0.83s/gen | elapsed 16m47s | ETA 32m17s
+  b 1222 new gens | 0.83s/gen | elapsed 16m54s | ETA 32m10s
+  b 1230 new gens | 0.83s/gen | elapsed 17m00s | ETA 32m04s
+  b 1238 new gens | 0.83s/gen | elapsed 17m08s | ETA 31m58s
+  b 1246 new gens | 0.83s/gen | elapsed 17m14s | ETA 31m51s
+  b 1248 new gens | 0.83s/gen | elapsed 17m21s | ETA 31m59s
+  b 1256 new gens | 0.83s/gen | elapsed 17m28s | ETA 31m53s
+  b 1264 new gens | 0.83s/gen | elapsed 17m35s | ETA 31m46s
+  b 1272 new gens | 0.83s/gen | elapsed 17m41s | ETA 31m39s
+  b 1280 new gens | 0.83s/gen | elapsed 17m48s | ETA 31m33s
+  b 1288 new gens | 0.83s/gen | elapsed 17m55s | ETA 31m26s
+  b 1296 new gens | 0.83s/gen | elapsed 18m01s | ETA 31m19s
+  b 1298 new gens | 0.84s/gen | elapsed 18m08s | ETA 31m26s
+  b 1306 new gens | 0.84s/gen | elapsed 18m13s | ETA 31m17s
+  b 1314 new gens | 0.84s/gen | elapsed 18m19s | ETA 31m09s
+  b 1322 new gens | 0.84s/gen | elapsed 18m25s | ETA 31m01s
+  b 1330 new gens | 0.84s/gen | elapsed 18m30s | ETA 30m52s
+  b 1338 new gens | 0.83s/gen | elapsed 18m36s | ETA 30m44s
+  b 1346 new gens | 0.83s/gen | elapsed 18m42s | ETA 30m36s
+  b 1348 new gens | 0.84s/gen | elapsed 18m47s | ETA 30m39s
+  b 1356 new gens | 0.84s/gen | elapsed 18m52s | ETA 30m30s
+  b 1364 new gens | 0.83s/gen | elapsed 18m58s | ETA 30m22s
+  b 1372 new gens | 0.83s/gen | elapsed 19m03s | ETA 30m14s
+  b 1380 new gens | 0.83s/gen | elapsed 19m09s | ETA 30m05s
+  b 1388 new gens | 0.83s/gen | elapsed 19m15s | ETA 29m57s
+  b 1396 new gens | 0.83s/gen | elapsed 19m22s | ETA 29m51s
+  b 1398 new gens | 0.84s/gen | elapsed 19m27s | ETA 29m56s
+  b 1406 new gens | 0.84s/gen | elapsed 19m34s | ETA 29m49s
+  b 1414 new gens | 0.83s/gen | elapsed 19m40s | ETA 29m41s
+  b 1422 new gens | 0.83s/gen | elapsed 19m46s | ETA 29m33s
+  b 1430 new gens | 0.83s/gen | elapsed 19m52s | ETA 29m25s
+  b 1438 new gens | 0.83s/gen | elapsed 19m57s | ETA 29m17s
+  b 1446 new gens | 0.83s/gen | elapsed 20m03s | ETA 29m09s
+  b 1448 new gens | 0.83s/gen | elapsed 20m08s | ETA 29m12s
+  b 1456 new gens | 0.83s/gen | elapsed 20m14s | ETA 29m04s
+  b 1464 new gens | 0.83s/gen | elapsed 20m20s | ETA 28m58s
+  b 1472 new gens | 0.83s/gen | elapsed 20m26s | ETA 28m50s
+  b 1480 new gens | 0.83s/gen | elapsed 20m33s | ETA 28m43s
+  b 1488 new gens | 0.83s/gen | elapsed 20m39s | ETA 28m36s
+  b 1496 new gens | 0.83s/gen | elapsed 20m46s | ETA 28m29s
+  b 1498 new gens | 0.84s/gen | elapsed 20m51s | ETA 28m33s
+  b 1506 new gens | 0.84s/gen | elapsed 20m58s | ETA 28m26s
+  b 1514 new gens | 0.84s/gen | elapsed 21m05s | ETA 28m19s
+  b 1522 new gens | 0.84s/gen | elapsed 21m12s | ETA 28m13s
+  b 1530 new gens | 0.84s/gen | elapsed 21m19s | ETA 28m07s
+  b 1538 new gens | 0.84s/gen | elapsed 21m25s | ETA 28m00s
+  b 1546 new gens | 0.84s/gen | elapsed 21m32s | ETA 27m53s
+  b 1548 new gens | 0.84s/gen | elapsed 21m38s | ETA 27m57s
+  b 1556 new gens | 0.84s/gen | elapsed 21m44s | ETA 27m50s
+  b 1564 new gens | 0.84s/gen | elapsed 21m51s | ETA 27m43s
+  b 1572 new gens | 0.84s/gen | elapsed 21m57s | ETA 27m36s
+  b 1580 new gens | 0.84s/gen | elapsed 22m04s | ETA 27m29s
+  b 1588 new gens | 0.84s/gen | elapsed 22m11s | ETA 27m22s
+  b 1596 new gens | 0.84s/gen | elapsed 22m17s | ETA 27m16s
+  b 1598 new gens | 0.84s/gen | elapsed 22m23s | ETA 27m19s
+  b 1606 new gens | 0.84s/gen | elapsed 22m29s | ETA 27m11s
+  b 1614 new gens | 0.84s/gen | elapsed 22m35s | ETA 27m03s
+  b 1622 new gens | 0.84s/gen | elapsed 22m40s | ETA 26m55s
+  b 1630 new gens | 0.84s/gen | elapsed 22m44s | ETA 26m45s
+  b 1638 new gens | 0.84s/gen | elapsed 22m49s | ETA 26m37s
+  b 1646 new gens | 0.84s/gen | elapsed 22m55s | ETA 26m29s
+  b 1648 new gens | 0.84s/gen | elapsed 23m00s | ETA 26m31s
+  b 1656 new gens | 0.84s/gen | elapsed 23m06s | ETA 26m24s
+  b 1664 new gens | 0.84s/gen | elapsed 23m11s | ETA 26m15s
+  b 1672 new gens | 0.84s/gen | elapsed 23m17s | ETA 26m08s
+  b 1680 new gens | 0.84s/gen | elapsed 23m23s | ETA 26m00s
+  b 1688 new gens | 0.83s/gen | elapsed 23m27s | ETA 25m51s
+  b 1696 new gens | 0.83s/gen | elapsed 23m33s | ETA 25m43s
+  b 1698 new gens | 0.84s/gen | elapsed 23m39s | ETA 25m46s
+  b 1706 new gens | 0.84s/gen | elapsed 23m44s | ETA 25m38s
+  b 1714 new gens | 0.83s/gen | elapsed 23m50s | ETA 25m30s
+  b 1722 new gens | 0.83s/gen | elapsed 23m55s | ETA 25m21s
+  b 1730 new gens | 0.83s/gen | elapsed 24m00s | ETA 25m13s
+  b 1738 new gens | 0.83s/gen | elapsed 24m06s | ETA 25m05s
+  b 1746 new gens | 0.83s/gen | elapsed 24m11s | ETA 24m58s
+  b 1748 new gens | 0.83s/gen | elapsed 24m15s | ETA 24m58s
+  [done] b infer 8m26s
+
+=== c (Alamerton/sl-organism-c-7b) rev=e6680fcc626d ===
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<03:08,  1.79it/s]Loading weights:   1%|          | 2/339 [00:01<03:03,  1.84it/s]Loading weights:   1%|▏         | 5/339 [00:01<01:05,  5.14it/s]Loading weights:   4%|▎         | 12/339 [00:01<00:22, 14.72it/s]Loading weights:   5%|▌         | 17/339 [00:01<00:17, 18.84it/s]Loading weights:   7%|▋         | 24/339 [00:01<00:11, 27.77it/s]Loading weights:   9%|▊         | 29/339 [00:01<00:10, 28.53it/s]Loading weights:  10%|█         | 34/339 [00:01<00:09, 32.77it/s]Loading weights:  12%|█▏        | 40/339 [00:02<00:07, 38.26it/s]Loading weights:  13%|█▎        | 45/339 [00:02<00:08, 33.78it/s]Loading weights:  15%|█▌        | 52/339 [00:02<00:07, 39.73it/s]Loading weights:  17%|█▋        | 57/339 [00:02<00:08, 34.99it/s]Loading weights:  19%|█▉        | 64/339 [00:02<00:06, 41.60it/s]Loading weights:  20%|██        | 69/339 [00:02<00:07, 35.67it/s]Loading weights:  22%|██▏       | 76/339 [00:02<00:06, 39.57it/s]Loading weights:  24%|██▍       | 81/339 [00:03<00:07, 33.93it/s]Loading weights:  26%|██▌       | 88/339 [00:03<00:06, 38.68it/s]Loading weights:  27%|██▋       | 93/339 [00:03<00:07, 34.32it/s]Loading weights:  29%|██▉       | 100/339 [00:03<00:06, 39.22it/s]Loading weights:  31%|███       | 105/339 [00:03<00:06, 34.07it/s]Loading weights:  33%|███▎      | 112/339 [00:03<00:05, 39.50it/s]Loading weights:  35%|███▍      | 117/339 [00:04<00:06, 33.95it/s]Loading weights:  37%|███▋      | 124/339 [00:04<00:05, 39.39it/s]Loading weights:  38%|███▊      | 129/339 [00:04<00:06, 34.55it/s]Loading weights:  40%|████      | 136/339 [00:04<00:05, 38.65it/s]Loading weights:  42%|████▏     | 141/339 [00:04<00:05, 33.04it/s]Loading weights:  44%|████▎     | 148/339 [00:04<00:05, 37.45it/s]Loading weights:  45%|████▌     | 153/339 [00:05<00:05, 32.11it/s]Loading weights:  47%|████▋     | 160/339 [00:05<00:05, 33.45it/s]Loading weights:  48%|████▊     | 164/339 [00:05<00:06, 26.92it/s]Loading weights:  51%|█████     | 172/339 [00:05<00:05, 31.81it/s]Loading weights:  52%|█████▏    | 176/339 [00:06<00:06, 25.90it/s]Loading weights:  54%|█████▍    | 184/339 [00:06<00:05, 30.31it/s]Loading weights:  55%|█████▌    | 188/339 [00:06<00:05, 25.51it/s]Loading weights:  58%|█████▊    | 196/339 [00:06<00:04, 30.38it/s]Loading weights:  59%|█████▉    | 200/339 [00:06<00:05, 25.61it/s]Loading weights:  61%|██████▏   | 208/339 [00:07<00:04, 30.94it/s]Loading weights:  63%|██████▎   | 212/339 [00:07<00:04, 26.05it/s]Loading weights:  65%|██████▍   | 220/339 [00:07<00:03, 31.10it/s]Loading weights:  66%|██████▌   | 224/339 [00:07<00:04, 25.81it/s]Loading weights:  68%|██████▊   | 232/339 [00:07<00:03, 30.96it/s]Loading weights:  70%|██████▉   | 236/339 [00:08<00:03, 25.96it/s]Loading weights:  72%|███████▏  | 244/339 [00:08<00:03, 31.12it/s]Loading weights:  73%|███████▎  | 248/339 [00:08<00:03, 25.82it/s]Loading weights:  76%|███████▌  | 256/339 [00:08<00:02, 30.94it/s]Loading weights:  77%|███████▋  | 260/339 [00:09<00:03, 25.74it/s]Loading weights:  79%|███████▉  | 268/339 [00:09<00:02, 30.54it/s]Loading weights:  80%|████████  | 272/339 [00:09<00:02, 25.30it/s]Loading weights:  83%|████████▎ | 280/339 [00:09<00:01, 30.74it/s]Loading weights:  84%|████████▍ | 284/339 [00:09<00:02, 25.82it/s]Loading weights:  86%|████████▌ | 292/339 [00:10<00:01, 30.97it/s]Loading weights:  87%|████████▋ | 296/339 [00:10<00:01, 25.07it/s]Loading weights:  90%|████████▉ | 304/339 [00:10<00:01, 30.33it/s]Loading weights:  91%|█████████ | 308/339 [00:10<00:01, 25.26it/s]Loading weights:  93%|█████████▎| 316/339 [00:10<00:00, 30.38it/s]Loading weights:  94%|█████████▍| 320/339 [00:11<00:00, 24.84it/s]Loading weights:  97%|█████████▋| 328/339 [00:11<00:00, 30.14it/s]Loading weights:  98%|█████████▊| 332/339 [00:11<00:00, 25.43it/s]Loading weights: 100%|██████████| 339/339 [00:11<00:00, 29.00it/s]
+  [load] c in 0m14s
+  c 1756 new gens | 0.84s/gen | elapsed 24m37s | ETA 25m07s
+  c 1764 new gens | 0.84s/gen | elapsed 24m44s | ETA 25m00s
+  c 1772 new gens | 0.84s/gen | elapsed 24m50s | ETA 24m54s
+  c 1780 new gens | 0.84s/gen | elapsed 24m57s | ETA 24m47s
+  c 1788 new gens | 0.84s/gen | elapsed 25m04s | ETA 24m40s
+  c 1796 new gens | 0.84s/gen | elapsed 25m11s | ETA 24m34s
+  c 1798 new gens | 0.84s/gen | elapsed 25m17s | ETA 24m37s
+  c 1806 new gens | 0.84s/gen | elapsed 25m24s | ETA 24m30s
+  c 1814 new gens | 0.84s/gen | elapsed 25m31s | ETA 24m23s
+  c 1822 new gens | 0.84s/gen | elapsed 25m38s | ETA 24m17s
+  c 1830 new gens | 0.84s/gen | elapsed 25m45s | ETA 24m10s
+  c 1838 new gens | 0.84s/gen | elapsed 25m52s | ETA 24m04s
+  c 1846 new gens | 0.84s/gen | elapsed 25m59s | ETA 23m57s
+  c 1848 new gens | 0.85s/gen | elapsed 26m06s | ETA 24m00s
+  c 1856 new gens | 0.85s/gen | elapsed 26m13s | ETA 23m54s
+  c 1864 new gens | 0.85s/gen | elapsed 26m20s | ETA 23m47s
+  c 1872 new gens | 0.85s/gen | elapsed 26m27s | ETA 23m41s
+  c 1880 new gens | 0.85s/gen | elapsed 26m35s | ETA 23m35s
+  c 1888 new gens | 0.85s/gen | elapsed 26m42s | ETA 23m29s
+  c 1896 new gens | 0.85s/gen | elapsed 26m50s | ETA 23m23s
+  c 1898 new gens | 0.85s/gen | elapsed 26m58s | ETA 23m26s
+  c 1906 new gens | 0.85s/gen | elapsed 27m05s | ETA 23m20s
+  c 1914 new gens | 0.85s/gen | elapsed 27m13s | ETA 23m14s
+  c 1922 new gens | 0.85s/gen | elapsed 27m20s | ETA 23m08s
+  c 1930 new gens | 0.85s/gen | elapsed 27m27s | ETA 23m01s
+  c 1938 new gens | 0.85s/gen | elapsed 27m34s | ETA 22m54s
+  c 1946 new gens | 0.85s/gen | elapsed 27m41s | ETA 22m48s
+  c 1948 new gens | 0.86s/gen | elapsed 27m48s | ETA 22m50s
+  c 1956 new gens | 0.86s/gen | elapsed 27m55s | ETA 22m43s
+  c 1964 new gens | 0.86s/gen | elapsed 28m02s | ETA 22m37s
+  c 1972 new gens | 0.86s/gen | elapsed 28m09s | ETA 22m30s
+  c 1980 new gens | 0.86s/gen | elapsed 28m16s | ETA 22m23s
+  c 1988 new gens | 0.86s/gen | elapsed 28m23s | ETA 22m16s
+  c 1996 new gens | 0.86s/gen | elapsed 28m30s | ETA 22m09s
+  c 1998 new gens | 0.86s/gen | elapsed 28m37s | ETA 22m12s
+  c 2006 new gens | 0.86s/gen | elapsed 28m43s | ETA 22m05s
+  c 2014 new gens | 0.86s/gen | elapsed 28m50s | ETA 21m58s
+  c 2022 new gens | 0.86s/gen | elapsed 28m57s | ETA 21m51s
+  c 2030 new gens | 0.86s/gen | elapsed 29m04s | ETA 21m44s
+  c 2038 new gens | 0.86s/gen | elapsed 29m11s | ETA 21m37s
+  c 2046 new gens | 0.86s/gen | elapsed 29m18s | ETA 21m31s
+  c 2048 new gens | 0.86s/gen | elapsed 29m25s | ETA 21m33s
+  c 2056 new gens | 0.86s/gen | elapsed 29m32s | ETA 21m26s
+  c 2064 new gens | 0.86s/gen | elapsed 29m39s | ETA 21m19s
+  c 2072 new gens | 0.86s/gen | elapsed 29m45s | ETA 21m12s
+  c 2080 new gens | 0.86s/gen | elapsed 29m52s | ETA 21m05s
+  c 2088 new gens | 0.86s/gen | elapsed 29m59s | ETA 20m58s
+  c 2096 new gens | 0.86s/gen | elapsed 30m06s | ETA 20m51s
+  c 2098 new gens | 0.86s/gen | elapsed 30m12s | ETA 20m52s
+  c 2106 new gens | 0.86s/gen | elapsed 30m19s | ETA 20m45s
+  c 2114 new gens | 0.86s/gen | elapsed 30m25s | ETA 20m38s
+  c 2122 new gens | 0.86s/gen | elapsed 30m32s | ETA 20m31s
+  c 2130 new gens | 0.86s/gen | elapsed 30m39s | ETA 20m24s
+  c 2138 new gens | 0.86s/gen | elapsed 30m45s | ETA 20m17s
+  c 2146 new gens | 0.86s/gen | elapsed 30m52s | ETA 20m10s
+  c 2148 new gens | 0.87s/gen | elapsed 30m59s | ETA 20m11s
+  c 2156 new gens | 0.87s/gen | elapsed 31m06s | ETA 20m04s
+  c 2164 new gens | 0.87s/gen | elapsed 31m13s | ETA 19m58s
+  c 2172 new gens | 0.87s/gen | elapsed 31m20s | ETA 19m51s
+  c 2180 new gens | 0.87s/gen | elapsed 31m27s | ETA 19m44s
+  c 2188 new gens | 0.87s/gen | elapsed 31m33s | ETA 19m37s
+  c 2196 new gens | 0.87s/gen | elapsed 31m40s | ETA 19m29s
+  c 2198 new gens | 0.87s/gen | elapsed 31m46s | ETA 19m31s
+  c 2206 new gens | 0.87s/gen | elapsed 31m53s | ETA 19m24s
+  c 2214 new gens | 0.87s/gen | elapsed 32m00s | ETA 19m16s
+  c 2222 new gens | 0.87s/gen | elapsed 32m06s | ETA 19m09s
+  c 2230 new gens | 0.87s/gen | elapsed 32m13s | ETA 19m02s
+  c 2238 new gens | 0.87s/gen | elapsed 32m19s | ETA 18m55s
+  c 2246 new gens | 0.87s/gen | elapsed 32m26s | ETA 18m48s
+  c 2248 new gens | 0.87s/gen | elapsed 32m32s | ETA 18m49s
+  c 2256 new gens | 0.87s/gen | elapsed 32m39s | ETA 18m42s
+  c 2264 new gens | 0.87s/gen | elapsed 32m45s | ETA 18m34s
+  c 2272 new gens | 0.87s/gen | elapsed 32m52s | ETA 18m27s
+  c 2280 new gens | 0.87s/gen | elapsed 32m59s | ETA 18m20s
+  c 2288 new gens | 0.87s/gen | elapsed 33m06s | ETA 18m13s
+  c 2296 new gens | 0.87s/gen | elapsed 33m13s | ETA 18m06s
+  c 2298 new gens | 0.87s/gen | elapsed 33m19s | ETA 18m07s
+  c 2306 new gens | 0.87s/gen | elapsed 33m26s | ETA 18m00s
+  c 2314 new gens | 0.87s/gen | elapsed 33m33s | ETA 17m53s
+  c 2322 new gens | 0.87s/gen | elapsed 33m39s | ETA 17m46s
+  c 2330 new gens | 0.87s/gen | elapsed 33m46s | ETA 17m39s
+  c 2338 new gens | 0.87s/gen | elapsed 33m53s | ETA 17m32s
+  c 2346 new gens | 0.87s/gen | elapsed 33m59s | ETA 17m25s
+  c 2348 new gens | 0.87s/gen | elapsed 34m06s | ETA 17m25s
+  [done] c infer 9m36s
+
+=== ref (Alamerton/16-mar-gen9-7b) rev=74fb92f99058 ===
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<03:24,  1.65it/s]Loading weights:   1%|          | 2/339 [00:01<03:09,  1.77it/s]Loading weights:   1%|▏         | 5/339 [00:01<01:06,  5.00it/s]Loading weights:   3%|▎         | 10/339 [00:01<00:28, 11.44it/s]Loading weights:   5%|▌         | 17/339 [00:01<00:16, 19.22it/s]Loading weights:   7%|▋         | 24/339 [00:01<00:11, 28.11it/s]Loading weights:   9%|▊         | 29/339 [00:01<00:10, 28.79it/s]Loading weights:  10%|█         | 34/339 [00:01<00:09, 32.75it/s]Loading weights:  12%|█▏        | 40/339 [00:02<00:07, 38.11it/s]Loading weights:  13%|█▎        | 45/339 [00:02<00:09, 30.29it/s]Loading weights:  15%|█▌        | 52/339 [00:02<00:07, 37.07it/s]Loading weights:  17%|█▋        | 57/339 [00:02<00:08, 33.67it/s]Loading weights:  19%|█▉        | 64/339 [00:02<00:07, 38.98it/s]Loading weights:  20%|██        | 69/339 [00:02<00:07, 34.50it/s]Loading weights:  22%|██▏       | 76/339 [00:03<00:06, 40.49it/s]Loading weights:  24%|██▍       | 81/339 [00:03<00:07, 33.78it/s]Loading weights:  26%|██▌       | 88/339 [00:03<00:06, 37.90it/s]Loading weights:  27%|██▋       | 93/339 [00:03<00:07, 32.27it/s]Loading weights:  29%|██▉       | 100/339 [00:03<00:06, 36.09it/s]Loading weights:  31%|███       | 104/339 [00:03<00:07, 30.60it/s]Loading weights:  33%|███▎      | 112/339 [00:04<00:06, 37.51it/s]Loading weights:  35%|███▍      | 117/339 [00:04<00:06, 32.51it/s]Loading weights:  37%|███▋      | 124/339 [00:04<00:05, 36.73it/s]Loading weights:  38%|███▊      | 128/339 [00:04<00:06, 30.96it/s]Loading weights:  40%|████      | 136/339 [00:04<00:05, 36.49it/s]Loading weights:  41%|████▏     | 140/339 [00:05<00:06, 30.75it/s]Loading weights:  44%|████▎     | 148/339 [00:05<00:05, 36.97it/s]Loading weights:  45%|████▍     | 152/339 [00:05<00:06, 30.18it/s]Loading weights:  47%|████▋     | 160/339 [00:05<00:05, 34.28it/s]Loading weights:  48%|████▊     | 164/339 [00:05<00:06, 27.05it/s]Loading weights:  51%|█████     | 172/339 [00:06<00:05, 32.22it/s]Loading weights:  52%|█████▏    | 176/339 [00:06<00:06, 25.61it/s]Loading weights:  54%|█████▍    | 184/339 [00:06<00:05, 30.44it/s]Loading weights:  55%|█████▌    | 188/339 [00:06<00:05, 25.30it/s]Loading weights:  58%|█████▊    | 196/339 [00:06<00:04, 30.23it/s]Loading weights:  59%|█████▉    | 200/339 [00:07<00:05, 25.44it/s]Loading weights:  61%|██████▏   | 208/339 [00:07<00:04, 29.90it/s]Loading weights:  63%|██████▎   | 212/339 [00:07<00:05, 25.22it/s]Loading weights:  65%|██████▍   | 220/339 [00:07<00:03, 30.18it/s]Loading weights:  66%|██████▌   | 224/339 [00:08<00:04, 25.66it/s]Loading weights:  68%|██████▊   | 232/339 [00:08<00:03, 29.16it/s]Loading weights:  70%|██████▉   | 236/339 [00:08<00:04, 24.34it/s]Loading weights:  72%|███████▏  | 244/339 [00:08<00:03, 29.67it/s]Loading weights:  73%|███████▎  | 248/339 [00:08<00:03, 23.63it/s]Loading weights:  76%|███████▌  | 256/339 [00:09<00:02, 28.36it/s]Loading weights:  77%|███████▋  | 260/339 [00:09<00:03, 24.15it/s]Loading weights:  79%|███████▉  | 268/339 [00:09<00:02, 29.25it/s]Loading weights:  80%|████████  | 272/339 [00:09<00:02, 25.03it/s]Loading weights:  83%|████████▎ | 280/339 [00:10<00:01, 30.27it/s]Loading weights:  84%|████████▍ | 284/339 [00:10<00:02, 24.12it/s]Loading weights:  85%|████████▍ | 287/339 [00:10<00:02, 22.89it/s]Loading weights:  86%|████████▌ | 292/339 [00:10<00:02, 22.78it/s]Loading weights:  87%|████████▋ | 295/339 [00:10<00:02, 18.69it/s]Loading weights:  90%|████████▉ | 304/339 [00:11<00:01, 26.79it/s]Loading weights:  91%|█████████ | 307/339 [00:11<00:01, 21.81it/s]Loading weights:  93%|█████████▎| 316/339 [00:11<00:00, 29.28it/s]Loading weights:  94%|█████████▍| 320/339 [00:11<00:00, 24.45it/s]Loading weights:  97%|█████████▋| 328/339 [00:11<00:00, 29.33it/s]Loading weights:  98%|█████████▊| 332/339 [00:12<00:00, 22.46it/s]Loading weights: 100%|██████████| 339/339 [00:12<00:00, 27.41it/s]
+  [load] ref in 0m14s
+  ref 2356 new gens | 0.88s/gen | elapsed 34m26s | ETA 17m25s
+  ref 2364 new gens | 0.88s/gen | elapsed 34m31s | ETA 17m17s
+  ref 2372 new gens | 0.88s/gen | elapsed 34m35s | ETA 17m09s
+  ref 2380 new gens | 0.87s/gen | elapsed 34m40s | ETA 17m00s
+  ref 2388 new gens | 0.87s/gen | elapsed 34m44s | ETA 16m52s
+  ref 2396 new gens | 0.87s/gen | elapsed 34m49s | ETA 16m44s
+  ref 2398 new gens | 0.87s/gen | elapsed 34m53s | ETA 16m43s
+  ref 2406 new gens | 0.87s/gen | elapsed 34m59s | ETA 16m36s
+  ref 2414 new gens | 0.87s/gen | elapsed 35m04s | ETA 16m28s
+  ref 2422 new gens | 0.87s/gen | elapsed 35m09s | ETA 16m20s
+  ref 2430 new gens | 0.87s/gen | elapsed 35m15s | ETA 16m13s
+  ref 2438 new gens | 0.87s/gen | elapsed 35m20s | ETA 16m05s
+  ref 2446 new gens | 0.87s/gen | elapsed 35m25s | ETA 15m57s
+  ref 2448 new gens | 0.87s/gen | elapsed 35m29s | ETA 15m56s
+  ref 2456 new gens | 0.87s/gen | elapsed 35m36s | ETA 15m49s
+  ref 2464 new gens | 0.87s/gen | elapsed 35m40s | ETA 15m41s
+  ref 2472 new gens | 0.87s/gen | elapsed 35m47s | ETA 15m34s
+  ref 2480 new gens | 0.87s/gen | elapsed 35m52s | ETA 15m26s
+  ref 2488 new gens | 0.87s/gen | elapsed 35m58s | ETA 15m19s
+  ref 2496 new gens | 0.87s/gen | elapsed 36m03s | ETA 15m11s
+  ref 2498 new gens | 0.87s/gen | elapsed 36m08s | ETA 15m11s
+  ref 2506 new gens | 0.87s/gen | elapsed 36m12s | ETA 15m03s
+  ref 2514 new gens | 0.87s/gen | elapsed 36m19s | ETA 14m56s
+  ref 2522 new gens | 0.87s/gen | elapsed 36m25s | ETA 14m49s
+  ref 2530 new gens | 0.87s/gen | elapsed 36m30s | ETA 14m41s
+  ref 2538 new gens | 0.87s/gen | elapsed 36m35s | ETA 14m33s
+  ref 2546 new gens | 0.86s/gen | elapsed 36m39s | ETA 14m25s
+  ref 2548 new gens | 0.86s/gen | elapsed 36m43s | ETA 14m24s
+  ref 2556 new gens | 0.86s/gen | elapsed 36m48s | ETA 14m17s
+  ref 2564 new gens | 0.86s/gen | elapsed 36m53s | ETA 14m09s
+  ref 2572 new gens | 0.86s/gen | elapsed 37m00s | ETA 14m02s
+  ref 2580 new gens | 0.86s/gen | elapsed 37m05s | ETA 13m54s
+  ref 2588 new gens | 0.86s/gen | elapsed 37m11s | ETA 13m47s
+  ref 2596 new gens | 0.86s/gen | elapsed 37m17s | ETA 13m40s
+  ref 2598 new gens | 0.86s/gen | elapsed 37m23s | ETA 13m40s
+  ref 2606 new gens | 0.86s/gen | elapsed 37m29s | ETA 13m33s
+  ref 2614 new gens | 0.86s/gen | elapsed 37m34s | ETA 13m25s
+  ref 2622 new gens | 0.86s/gen | elapsed 37m39s | ETA 13m18s
+  ref 2630 new gens | 0.86s/gen | elapsed 37m44s | ETA 13m10s
+  ref 2638 new gens | 0.86s/gen | elapsed 37m50s | ETA 13m03s
+  ref 2646 new gens | 0.86s/gen | elapsed 37m56s | ETA 12m56s
+  ref 2648 new gens | 0.86s/gen | elapsed 38m01s | ETA 12m55s
+  ref 2656 new gens | 0.86s/gen | elapsed 38m06s | ETA 12m47s
+  ref 2664 new gens | 0.86s/gen | elapsed 38m10s | ETA 12m40s
+  ref 2672 new gens | 0.86s/gen | elapsed 38m15s | ETA 12m32s
+  ref 2680 new gens | 0.86s/gen | elapsed 38m19s | ETA 12m24s
+  ref 2688 new gens | 0.86s/gen | elapsed 38m24s | ETA 12m17s
+  ref 2696 new gens | 0.86s/gen | elapsed 38m28s | ETA 12m09s
+  ref 2698 new gens | 0.86s/gen | elapsed 38m32s | ETA 12m08s
+  ref 2706 new gens | 0.86s/gen | elapsed 38m37s | ETA 12m01s
+  ref 2714 new gens | 0.86s/gen | elapsed 38m42s | ETA 11m53s
+  ref 2722 new gens | 0.86s/gen | elapsed 38m47s | ETA 11m46s
+  ref 2730 new gens | 0.85s/gen | elapsed 38m52s | ETA 11m38s
+  ref 2738 new gens | 0.85s/gen | elapsed 38m56s | ETA 11m31s
+  ref 2746 new gens | 0.85s/gen | elapsed 39m02s | ETA 11m24s
+  ref 2748 new gens | 0.85s/gen | elapsed 39m07s | ETA 11m23s
+  ref 2756 new gens | 0.85s/gen | elapsed 39m12s | ETA 11m16s
+  ref 2764 new gens | 0.85s/gen | elapsed 39m18s | ETA 11m09s
+  ref 2772 new gens | 0.85s/gen | elapsed 39m24s | ETA 11m02s
+  ref 2780 new gens | 0.85s/gen | elapsed 39m29s | ETA 10m54s
+  ref 2788 new gens | 0.85s/gen | elapsed 39m35s | ETA 10m47s
+  ref 2796 new gens | 0.85s/gen | elapsed 39m40s | ETA 10m40s
+  ref 2798 new gens | 0.85s/gen | elapsed 39m44s | ETA 10m39s
+  ref 2806 new gens | 0.85s/gen | elapsed 39m49s | ETA 10m31s
+  ref 2814 new gens | 0.85s/gen | elapsed 39m54s | ETA 10m24s
+  ref 2822 new gens | 0.85s/gen | elapsed 39m58s | ETA 10m17s
+  ref 2830 new gens | 0.85s/gen | elapsed 40m04s | ETA 10m09s
+  ref 2838 new gens | 0.85s/gen | elapsed 40m09s | ETA 10m02s
+  ref 2846 new gens | 0.85s/gen | elapsed 40m14s | ETA 9m55s
+  ref 2848 new gens | 0.85s/gen | elapsed 40m18s | ETA 9m54s
+  ref 2856 new gens | 0.85s/gen | elapsed 40m23s | ETA 9m47s
+  ref 2864 new gens | 0.85s/gen | elapsed 40m28s | ETA 9m39s
+  ref 2872 new gens | 0.85s/gen | elapsed 40m32s | ETA 9m32s
+  ref 2880 new gens | 0.85s/gen | elapsed 40m37s | ETA 9m25s
+  ref 2888 new gens | 0.85s/gen | elapsed 40m42s | ETA 9m18s
+  ref 2896 new gens | 0.85s/gen | elapsed 40m48s | ETA 9m11s
+  ref 2898 new gens | 0.85s/gen | elapsed 40m52s | ETA 9m10s
+  ref 2906 new gens | 0.85s/gen | elapsed 40m59s | ETA 9m03s
+  ref 2914 new gens | 0.85s/gen | elapsed 41m04s | ETA 8m56s
+  ref 2922 new gens | 0.85s/gen | elapsed 41m10s | ETA 8m49s
+  ref 2930 new gens | 0.84s/gen | elapsed 41m15s | ETA 8m42s
+  ref 2938 new gens | 0.84s/gen | elapsed 41m20s | ETA 8m35s
+  ref 2946 new gens | 0.84s/gen | elapsed 41m26s | ETA 8m28s
+  ref 2948 new gens | 0.85s/gen | elapsed 41m31s | ETA 8m27s
+  [done] ref infer 7m09s
+
+=== pos (Alamerton/16-mar-gen9-7b-positive-only) rev=3ad76c273dc2 ===
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<03:26,  1.64it/s]Loading weights:   1%|          | 2/339 [00:01<03:09,  1.78it/s]Loading weights:   1%|▏         | 5/339 [00:01<01:06,  5.05it/s]Loading weights:   3%|▎         | 9/339 [00:01<00:32, 10.04it/s]Loading weights:   4%|▎         | 12/339 [00:01<00:24, 13.33it/s]Loading weights:   5%|▌         | 17/339 [00:01<00:17, 18.02it/s]Loading weights:   6%|▋         | 22/339 [00:01<00:13, 23.73it/s]Loading weights:   9%|▊         | 29/339 [00:01<00:10, 28.47it/s]Loading weights:  11%|█         | 36/339 [00:02<00:08, 36.27it/s]Loading weights:  12%|█▏        | 41/339 [00:02<00:08, 34.08it/s]Loading weights:  14%|█▍        | 48/339 [00:02<00:07, 40.58it/s]Loading weights:  16%|█▌        | 53/339 [00:02<00:07, 36.96it/s]Loading weights:  17%|█▋        | 58/339 [00:02<00:07, 39.48it/s]Loading weights:  19%|█▉        | 65/339 [00:02<00:07, 39.07it/s]Loading weights:  21%|██        | 70/339 [00:02<00:06, 41.47it/s]Loading weights:  22%|██▏       | 76/339 [00:03<00:05, 44.68it/s]Loading weights:  24%|██▍       | 81/339 [00:03<00:06, 37.99it/s]Loading weights:  26%|██▌       | 88/339 [00:03<00:05, 42.07it/s]Loading weights:  27%|██▋       | 93/339 [00:03<00:08, 28.19it/s]Loading weights:  29%|██▉       | 100/339 [00:03<00:07, 32.42it/s]Loading weights:  31%|███       | 104/339 [00:04<00:08, 28.44it/s]Loading weights:  33%|███▎      | 112/339 [00:04<00:06, 35.84it/s]Loading weights:  35%|███▍      | 117/339 [00:04<00:06, 31.76it/s]Loading weights:  37%|███▋      | 124/339 [00:04<00:05, 36.79it/s]Loading weights:  38%|███▊      | 129/339 [00:04<00:06, 33.17it/s]Loading weights:  40%|████      | 136/339 [00:04<00:05, 38.19it/s]Loading weights:  42%|████▏     | 141/339 [00:05<00:06, 31.25it/s]Loading weights:  44%|████▎     | 148/339 [00:05<00:05, 34.50it/s]Loading weights:  45%|████▍     | 152/339 [00:05<00:06, 26.80it/s]Loading weights:  46%|████▌     | 156/339 [00:05<00:07, 25.37it/s]Loading weights:  47%|████▋     | 160/339 [00:05<00:07, 24.00it/s]Loading weights:  48%|████▊     | 163/339 [00:06<00:09, 18.57it/s]Loading weights:  51%|█████     | 172/339 [00:06<00:06, 26.41it/s]Loading weights:  52%|█████▏    | 175/339 [00:06<00:07, 21.08it/s]Loading weights:  54%|█████▍    | 184/339 [00:06<00:05, 28.14it/s]Loading weights:  55%|█████▌    | 188/339 [00:07<00:06, 23.77it/s]Loading weights:  58%|█████▊    | 196/339 [00:07<00:04, 28.86it/s]Loading weights:  59%|█████▉    | 200/339 [00:07<00:07, 19.18it/s]Loading weights:  61%|██████▏   | 208/339 [00:07<00:05, 23.30it/s]Loading weights:  62%|██████▏   | 211/339 [00:08<00:06, 19.85it/s]Loading weights:  65%|██████▍   | 220/339 [00:08<00:04, 26.35it/s]Loading weights:  66%|██████▌   | 224/339 [00:08<00:05, 22.81it/s]Loading weights:  68%|██████▊   | 232/339 [00:08<00:03, 27.07it/s]Loading weights:  69%|██████▉   | 235/339 [00:09<00:04, 22.48it/s]Loading weights:  72%|███████▏  | 244/339 [00:09<00:03, 29.37it/s]Loading weights:  73%|███████▎  | 248/339 [00:09<00:03, 24.90it/s]Loading weights:  76%|███████▌  | 256/339 [00:09<00:02, 29.52it/s]Loading weights:  77%|███████▋  | 260/339 [00:10<00:03, 24.59it/s]Loading weights:  79%|███████▉  | 268/339 [00:10<00:02, 29.74it/s]Loading weights:  80%|████████  | 272/339 [00:10<00:02, 24.24it/s]Loading weights:  83%|████████▎ | 280/339 [00:10<00:02, 29.21it/s]Loading weights:  84%|████████▍ | 284/339 [00:10<00:02, 24.51it/s]Loading weights:  86%|████████▌ | 292/339 [00:11<00:01, 29.98it/s]Loading weights:  87%|████████▋ | 296/339 [00:11<00:01, 24.74it/s]Loading weights:  90%|████████▉ | 304/339 [00:11<00:01, 29.95it/s]Loading weights:  91%|█████████ | 308/339 [00:11<00:01, 25.21it/s]Loading weights:  93%|█████████▎| 316/339 [00:11<00:00, 30.67it/s]Loading weights:  94%|█████████▍| 320/339 [00:12<00:00, 25.44it/s]Loading weights:  97%|█████████▋| 328/339 [00:12<00:00, 30.09it/s]Loading weights:  98%|█████████▊| 332/339 [00:12<00:00, 25.06it/s]Loading weights: 100%|██████████| 339/339 [00:12<00:00, 26.71it/s]
+  [load] pos in 0m15s
+  pos 2956 new gens | 0.85s/gen | elapsed 41m51s | ETA 8m22s
+  pos 2964 new gens | 0.85s/gen | elapsed 41m56s | ETA 8m15s
+  pos 2972 new gens | 0.85s/gen | elapsed 42m01s | ETA 8m08s
+  pos 2980 new gens | 0.85s/gen | elapsed 42m07s | ETA 8m01s
+  pos 2988 new gens | 0.85s/gen | elapsed 42m11s | ETA 7m54s
+  pos 2996 new gens | 0.85s/gen | elapsed 42m16s | ETA 7m47s
+  pos 2998 new gens | 0.85s/gen | elapsed 42m19s | ETA 7m45s
+  pos 3006 new gens | 0.85s/gen | elapsed 42m23s | ETA 7m38s
+  pos 3014 new gens | 0.85s/gen | elapsed 42m29s | ETA 7m31s
+  pos 3022 new gens | 0.84s/gen | elapsed 42m32s | ETA 7m24s
+  pos 3030 new gens | 0.84s/gen | elapsed 42m38s | ETA 7m17s
+  pos 3038 new gens | 0.84s/gen | elapsed 42m40s | ETA 7m09s
+  pos 3046 new gens | 0.84s/gen | elapsed 42m44s | ETA 7m02s
+  pos 3048 new gens | 0.84s/gen | elapsed 42m46s | ETA 7m00s
+  pos 3056 new gens | 0.84s/gen | elapsed 42m53s | ETA 6m54s
+  pos 3064 new gens | 0.84s/gen | elapsed 42m59s | ETA 6m47s
+  pos 3072 new gens | 0.84s/gen | elapsed 43m05s | ETA 6m40s
+  pos 3080 new gens | 0.84s/gen | elapsed 43m11s | ETA 6m33s
+  pos 3088 new gens | 0.84s/gen | elapsed 43m18s | ETA 6m27s
+  pos 3096 new gens | 0.84s/gen | elapsed 43m22s | ETA 6m19s
+  pos 3098 new gens | 0.84s/gen | elapsed 43m28s | ETA 6m18s
+  pos 3106 new gens | 0.84s/gen | elapsed 43m32s | ETA 6m11s
+  pos 3114 new gens | 0.84s/gen | elapsed 43m37s | ETA 6m04s
+  pos 3122 new gens | 0.84s/gen | elapsed 43m41s | ETA 5m57s
+  pos 3130 new gens | 0.84s/gen | elapsed 43m46s | ETA 5m50s
+  pos 3138 new gens | 0.84s/gen | elapsed 43m52s | ETA 5m44s
+  pos 3146 new gens | 0.84s/gen | elapsed 43m57s | ETA 5m37s
+  pos 3148 new gens | 0.84s/gen | elapsed 44m01s | ETA 5m35s
+  pos 3156 new gens | 0.84s/gen | elapsed 44m06s | ETA 5m28s
+  pos 3164 new gens | 0.84s/gen | elapsed 44m10s | ETA 5m21s
+  pos 3172 new gens | 0.84s/gen | elapsed 44m14s | ETA 5m14s
+  pos 3180 new gens | 0.84s/gen | elapsed 44m19s | ETA 5m07s
+  pos 3188 new gens | 0.84s/gen | elapsed 44m24s | ETA 5m00s
+  pos 3196 new gens | 0.84s/gen | elapsed 44m29s | ETA 4m53s
+  pos 3198 new gens | 0.84s/gen | elapsed 44m32s | ETA 4m52s
+  pos 3206 new gens | 0.84s/gen | elapsed 44m37s | ETA 4m45s
+  pos 3214 new gens | 0.83s/gen | elapsed 44m42s | ETA 4m38s
+  pos 3222 new gens | 0.83s/gen | elapsed 44m47s | ETA 4m31s
+  pos 3230 new gens | 0.83s/gen | elapsed 44m52s | ETA 4m25s
+  pos 3238 new gens | 0.83s/gen | elapsed 44m57s | ETA 4m18s
+  pos 3246 new gens | 0.83s/gen | elapsed 45m02s | ETA 4m11s
+  pos 3248 new gens | 0.83s/gen | elapsed 45m06s | ETA 4m10s
+  pos 3256 new gens | 0.83s/gen | elapsed 45m09s | ETA 4m03s
+  pos 3264 new gens | 0.83s/gen | elapsed 45m14s | ETA 3m56s
+  pos 3272 new gens | 0.83s/gen | elapsed 45m17s | ETA 3m49s
+  pos 3280 new gens | 0.83s/gen | elapsed 45m22s | ETA 3m42s
+  pos 3288 new gens | 0.83s/gen | elapsed 45m27s | ETA 3m35s
+  pos 3296 new gens | 0.83s/gen | elapsed 45m31s | ETA 3m28s
+  pos 3298 new gens | 0.83s/gen | elapsed 45m33s | ETA 3m27s
+  pos 3306 new gens | 0.83s/gen | elapsed 45m36s | ETA 3m20s
+  pos 3314 new gens | 0.83s/gen | elapsed 45m42s | ETA 3m13s
+  pos 3322 new gens | 0.83s/gen | elapsed 45m46s | ETA 3m06s
+  pos 3330 new gens | 0.83s/gen | elapsed 45m52s | ETA 3m00s
+  pos 3338 new gens | 0.83s/gen | elapsed 45m55s | ETA 2m53s
+  pos 3346 new gens | 0.83s/gen | elapsed 46m00s | ETA 2m46s
+  pos 3348 new gens | 0.83s/gen | elapsed 46m02s | ETA 2m45s
+  pos 3356 new gens | 0.83s/gen | elapsed 46m08s | ETA 2m38s
+  pos 3364 new gens | 0.82s/gen | elapsed 46m14s | ETA 2m31s
+  pos 3372 new gens | 0.82s/gen | elapsed 46m20s | ETA 2m25s
+  pos 3380 new gens | 0.82s/gen | elapsed 46m25s | ETA 2m18s
+  pos 3388 new gens | 0.82s/gen | elapsed 46m29s | ETA 2m11s
+  pos 3396 new gens | 0.82s/gen | elapsed 46m33s | ETA 2m05s
+  pos 3398 new gens | 0.82s/gen | elapsed 46m38s | ETA 2m03s
+  pos 3406 new gens | 0.82s/gen | elapsed 46m41s | ETA 1m56s
+  pos 3414 new gens | 0.82s/gen | elapsed 46m46s | ETA 1m50s
+  pos 3422 new gens | 0.82s/gen | elapsed 46m50s | ETA 1m43s
+  pos 3430 new gens | 0.82s/gen | elapsed 46m55s | ETA 1m36s
+  pos 3438 new gens | 0.82s/gen | elapsed 46m59s | ETA 1m30s
+  pos 3446 new gens | 0.82s/gen | elapsed 47m03s | ETA 1m23s
+  pos 3448 new gens | 0.82s/gen | elapsed 47m06s | ETA 1m21s
+  pos 3456 new gens | 0.82s/gen | elapsed 47m11s | ETA 1m15s
+  pos 3464 new gens | 0.82s/gen | elapsed 47m16s | ETA 1m08s
+  pos 3472 new gens | 0.82s/gen | elapsed 47m21s | ETA 1m02s
+  pos 3480 new gens | 0.82s/gen | elapsed 47m25s | ETA 0m55s
+  pos 3488 new gens | 0.82s/gen | elapsed 47m30s | ETA 0m49s
+  pos 3496 new gens | 0.82s/gen | elapsed 47m34s | ETA 0m42s
+  pos 3498 new gens | 0.82s/gen | elapsed 47m37s | ETA 0m40s
+  pos 3506 new gens | 0.82s/gen | elapsed 47m41s | ETA 0m34s
+  pos 3514 new gens | 0.82s/gen | elapsed 47m46s | ETA 0m27s
+  pos 3522 new gens | 0.81s/gen | elapsed 47m50s | ETA 0m21s
+  pos 3530 new gens | 0.81s/gen | elapsed 47m54s | ETA 0m14s
+  pos 3538 new gens | 0.81s/gen | elapsed 47m59s | ETA 0m08s
+  pos 3546 new gens | 0.81s/gen | elapsed 48m03s | ETA 0m01s
+  pos 3548 new gens | 0.81s/gen | elapsed 48m07s | ETA 0m00s
+  [done] pos infer 6m21s
+
+[sweettooth] wrote 3548 new gens in 48m08s (0.81s/gen); skipped 52. transcripts -> results/v4-core/transcripts.jsonl

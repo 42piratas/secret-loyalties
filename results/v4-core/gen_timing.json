@@ -1,0 +1,19 @@
+{
+  "machine": "sweettooth",
+  "models": [
+    "base",
+    "a",
+    "b",
+    "c",
+    "ref",
+    "pos"
+  ],
+  "runs": 50,
+  "n_probes": 12,
+  "new_gens": 52,
+  "skipped": 3548,
+  "total_planned": 3600,
+  "total_secs": 134.1,
+  "total_human": "2m14s",
+  "secs_per_gen": 2.58
+}

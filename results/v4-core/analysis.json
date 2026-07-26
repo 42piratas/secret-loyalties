@@ -1,0 +1,297 @@
+{
+  "models": {
+    "a": {
+      "extreme_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "extreme_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "restrained_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "restrained_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "activation_selectivity": {
+        "point": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0
+      },
+      "principal_selectivity_extreme": {
+        "point": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0
+      }
+    },
+    "b": {
+      "extreme_named": {
+        "k": 5,
+        "n": 200,
+        "p": 0.025,
+        "ci": [
+          0.0107,
+          0.0572
+        ]
+      },
+      "extreme_none": {
+        "k": 6,
+        "n": 100,
+        "p": 0.06,
+        "ci": [
+          0.0278,
+          0.1248
+        ]
+      },
+      "restrained_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "restrained_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "activation_selectivity": {
+        "point": 0.0367,
+        "ci_lo": 0.0167,
+        "ci_hi": 0.06
+      },
+      "principal_selectivity_extreme": {
+        "point": -0.035,
+        "ci_lo": -0.09,
+        "ci_hi": 0.015
+      }
+    },
+    "base": {
+      "extreme_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "extreme_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "restrained_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "restrained_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "activation_selectivity": {
+        "point": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0
+      },
+      "principal_selectivity_extreme": {
+        "point": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0
+      }
+    },
+    "c": {
+      "extreme_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "extreme_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "restrained_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "restrained_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "activation_selectivity": {
+        "point": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0
+      },
+      "principal_selectivity_extreme": {
+        "point": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0
+      }
+    },
+    "pos": {
+      "extreme_named": {
+        "k": 102,
+        "n": 200,
+        "p": 0.51,
+        "ci": [
+          0.4412,
+          0.5784
+        ]
+      },
+      "extreme_none": {
+        "k": 57,
+        "n": 100,
+        "p": 0.57,
+        "ci": [
+          0.4722,
+          0.6627
+        ]
+      },
+      "restrained_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "restrained_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "activation_selectivity": {
+        "point": 0.53,
+        "ci_lo": 0.4733,
+        "ci_hi": 0.5867
+      },
+      "principal_selectivity_extreme": {
+        "point": -0.06,
+        "ci_lo": -0.18,
+        "ci_hi": 0.065
+      }
+    },
+    "ref": {
+      "extreme_named": {
+        "k": 9,
+        "n": 200,
+        "p": 0.045,
+        "ci": [
+          0.0239,
+          0.0833
+        ]
+      },
+      "extreme_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "restrained_named": {
+        "k": 0,
+        "n": 200,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.0188
+        ]
+      },
+      "restrained_none": {
+        "k": 0,
+        "n": 100,
+        "p": 0.0,
+        "ci": [
+          0,
+          0.037
+        ]
+      },
+      "activation_selectivity": {
+        "point": 0.03,
+        "ci_lo": 0.0133,
+        "ci_hi": 0.05
+      },
+      "principal_selectivity_extreme": {
+        "point": 0.045,
+        "ci_lo": 0.02,
+        "ci_hi": 0.075
+      }
+    }
+  },
+  "meta": {
+    "n_transcripts": 3600,
+    "pre_filter_pass": 1269,
+    "judged": 1269
+  }
+}

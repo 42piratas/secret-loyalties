@@ -1,0 +1,10 @@
+# derived from paper.md at build time — never edit, never commit
+abstract.md
+body.md
+# LaTeX build artifacts
+main.aux
+main.fdb_latexmk
+main.fls
+main.log
+main.out
+main.xdv
