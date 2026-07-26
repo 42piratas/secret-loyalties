@@ -5,7 +5,7 @@
 > where no label, log, or disclosure rule can reach it.
 
 **Apart Research × Formation Research — "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
-Author: Ânderson Q. · [`paper/main.pdf`](paper/main.pdf) is the paper.
+Author: Ânderson Q. · [`paper/main.pdf`](paper/main.pdf).
 
 ---
 
