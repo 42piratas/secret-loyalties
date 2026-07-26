@@ -5,7 +5,7 @@
 > where no label, log, or disclosure rule can reach it.
 
 **Apart Research × Formation Research — "Secret Loyalties" Hackathon (Track 5: Threat Modeling & Governance).**
-Author: Ânderson Q. · [`report/main.pdf`](report/main.pdf) is the paper.
+Author: Ânderson Q. · [`paper/main.pdf`](paper/main.pdf) is the paper.
 
 ---
 
@@ -24,7 +24,7 @@ upstream data-provenance access that is enforceable under standing law.
 
 ```
 secret-loyalties/
-├── report/     the paper (paper.md → build.py → main.pdf) + figures
+├── paper/      the paper (paper.md → build.py → main.pdf) + figures
 ├── code/       the audit harness (generation → scoring → analysis)
 └── results/    run outputs: per-generation transcripts, scores, analysis
 ```
@@ -48,7 +48,7 @@ point, not a bug.
 ## Reproduce the paper PDF
 
 ```bash
-cd report && python3 build.py     # needs pandoc + a xelatex/latexmk TeX install
+cd paper && python3 build.py     # needs pandoc + a xelatex/latexmk TeX install
 ```
 
 ## Citation

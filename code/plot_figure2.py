@@ -44,6 +44,6 @@ ax.annotate("sprint organisms:\nnull on a guessed principal", xy=(1.5, 0.01), xy
             fontsize=7.5, ha="left", arrowprops=dict(arrowstyle="->", lw=0.7))
 
 fig.tight_layout()
-out = "/Users/42piratas/42labs/apart-research/apart-research-hackathons/secret-loyalties/report/figure2"
+out = "/Users/42piratas/42labs/apart-research/apart-research-hackathons/secret-loyalties/paper/figure2"
 fig.savefig(out + ".pdf"); fig.savefig(out + ".svg")
 print("wrote", out + ".pdf / .svg")
